@@ -1,0 +1,754 @@
+TForwARd
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Info.plist" ForwARd/ForwARd-Info.plist
+cProcessPCH "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch.pth" ForwARd/ForwARd-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/main.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AppDelegate.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/ViewController.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Mission.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Mission.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Event.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Event.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Task.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Task.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionViewController.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFactory.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFactory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFlowController.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFlowController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Common.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Common.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/EventNode.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/EventNode.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AlertModalViewController.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/AlertModalViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionLogCell.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionLogCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/SoundController.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/SoundController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/ForwARd" normal i386
+cGenerateDSYMFile "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app.dSYM" "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/ForwARd"
+cCopyStringsFile "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/en.lproj/InfoPlist.strings" ForwARd/en.lproj/InfoPlist.strings
+cCpResource ForwARd/Default.png Build/Products/Debug-iphonesimulator/ForwARd.app/Default.png
+cCpResource ForwARd/../Default@2x.png Build/Products/Debug-iphonesimulator/ForwARd.app/Default@2x.png
+cCpResource ForwARd/Default@2x.png Build/Products/Debug-iphonesimulator/ForwARd.app/Default@2x.png
+cCpResource ForwARd/Default-568h@2x.png Build/Products/Debug-iphonesimulator/ForwARd.app/Default-568h@2x.png
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c00000000516C7B210000000000000110
+t1366063905
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c0000000051993DA900000000001EB540
+t1368997289
+s2012480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000051993DA900000000003D4DF0
+t1368997289
+s4017648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051993DAA0000000000228FE0
+t1368997290
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000051993DAA000000000009C590
+t1368997290
+s640400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051993DAB00000000003DDFA0
+t1368997291
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051993DAB00000000000015F7
+t1368997291
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000051993DB00000000000000E8D
+t1368997296
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051993DB10000000000AB6230
+t1368997297
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c0000000051993DC20000000000001B73
+t1368997314
+s7027
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AlertModalViewController.o
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Common.o
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Event.o
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/EventNode.o
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/ForwARd.LinkFileList
+c00000000534D28600000000000000923
+t1397565536
+s2339
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Mission.o
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFactory.o
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFlowController.o
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionLogCell.o
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionViewController.o
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/SoundController.o
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Task.o
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch.pth
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app.dSYM
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Default.png
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Default@2x.png
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/ForwARd
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Graphics
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Info.plist
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/PkgInfo
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/arrows1.png
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/en.lproj/MainStoryboard_iPad.storyboardc
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/en.lproj/MainStoryboard_iPhone.storyboardc
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/energy_symbol.png
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/icon1.png
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/menu bck.png
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/menu.png
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/sounds
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/../Default-568h@2x.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/../Default@2x.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/../Graphics/arrows1.png
+c000000005193F2080000000000009CC2
+t1368650248
+s40130
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/../Graphics/energy_symbol.png
+c00000000519491340000000000004B36
+t1368690996
+s19254
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/../Graphics/menu bck.png
+c00000000519633DB0000000000015DF8
+t1368798171
+s89592
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/../Graphics/menu.png
+c00000000519633E50000000000002EBF
+t1368798181
+s11967
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/../icon1.png
+c00000000519A004400000000000033CC
+t1369047108
+s13260
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/AlertModalViewController.m
+c000000005197E73C00000000000002E7
+t1368909628
+s743
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/AppDelegate.m
+c00000000517448DA00000000000007DA
+t1366575322
+s2010
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Common.m
+c0000000051A123C40000000000000A47
+t1369514948
+s2631
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Event.m
+c0000000051969FF30000000000000272
+t1368825843
+s626
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/EventNode.m
+c000000005196A752000000000000021E
+t1368827730
+s542
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/ForwARd-Prefix.pch
+c00000000517448DA000000000000013D
+t1366575322
+s317
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Mission.m
+c0000000051969DD40000000000000390
+t1368825300
+s912
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFactory.m
+c0000000051B7FA090000000000002117
+t1371011593
+s8471
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFlowController.m
+c0000000051B805080000000000002695
+t1371014408
+s9877
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionLogCell.m
+c000000005198D8630000000000000264
+t1368971363
+s612
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionViewController.m
+c0000000051B6B36B0000000000003678
+t1370927979
+s13944
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/SoundController.m
+c0000000051AD796B000000000000116B
+t1370323307
+s4459
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Task.m
+c0000000051B805E80000000000001674
+t1371014632
+s5748
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/ViewController.m
+c00000000517A1EE70000000000000200
+t1366957799
+s512
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/en.lproj/InfoPlist.strings
+c00000000517448DA000000000000002D
+t1366575322
+s45
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/en.lproj/MainStoryboard_iPad.storyboard
+c00000000517448DA000000000000061D
+t1366575322
+s1565
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/en.lproj/MainStoryboard_iPhone.storyboard
+c00000000534D285F000000000000C5B3
+t1397565535
+s50611
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/main.m
+c00000000517448DA0000000000000153
+t1366575322
+s339
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Graphics
+c00000000534D284C00000000000003B8
+t1397565516
+s952
+
+N/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/sounds
+c00000000534D284C00000000000000AA
+t1397565516
+s170
+
+NForwARd/ForwARd-Info.plist
+c00000000519B297D0000000000000721
+t1369123197
+s1825
+
+CBuild AST from "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/AlertModalViewController.m"
+r0
+
+CBuild AST from "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Common.m"
+r0
+
+CBuild AST from "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Event.m"
+r0
+
+CBuild AST from "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/EventNode.m"
+r0
+
+CBuild AST from "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Mission.m"
+r0
+
+CBuild AST from "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFactory.m"
+r0
+
+CBuild AST from "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFlowController.m"
+r0
+
+CBuild AST from "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionLogCell.m"
+r0
+
+CBuild AST from "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionViewController.m"
+r0
+
+CBuild AST from "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/SoundController.m"
+r0
+
+CBuild AST from "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Task.m"
+r0
+
+CBuild AST from "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/ViewController.m"
+r0
+
+CBuild AST from "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies9032fadf5ffdb841^5b0a24e05ffdb841^-355"Warning: Multiple build commands for output file /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Default-568h@2x.pngWarning: Multiple build commands for output file /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Default@2x.png2(21%IDEActivityLogMessage2@179"Warning: Multiple build commands for output file /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Default-568h@2x.png-419258336#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@174"Warning: Multiple build commands for output file /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Default@2x.png-419258336#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#0#--18"Check dependencies36"6A2D1847-33EF-4389-B5F2-B761F63505A0-
+
+CCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AlertModalViewController.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/AlertModalViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419258337.918279
+e419258338.098943
+r1
+xCompileC
+xBuild/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AlertModalViewController.o
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/AlertModalViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/AlertModalViewController.m6e4cebe15ffdb841^3a5837e25ffdb841^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/AlertModalViewController.m0000000000000000^4012"CompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AlertModalViewController.o ForwARd/AlertModalViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-generated-files.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-own-target-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-all-target-headers.hmap" -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-project-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources/i386" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" -include "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch" -MMD -MT dependencies -MF "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AlertModalViewController.d" --serialize-diagnostics "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AlertModalViewController.dia" -c "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/AlertModalViewController.m" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AlertModalViewController.o"36"971CFE45-C553-4080-9E79-D7E67EB626E1-
+
+CCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AppDelegate.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419258337.554367
+e419258337.809076
+r1
+xCompileC
+xBuild/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AppDelegate.o
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/AppDelegate.mfb068ee15ffdb841^ed9bcfe15ffdb841^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/AppDelegate.m0000000000000000^3934"CompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AppDelegate.o ForwARd/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-generated-files.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-own-target-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-all-target-headers.hmap" -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-project-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources/i386" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" -include "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch" -MMD -MT dependencies -MF "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/AppDelegate.m" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/AppDelegate.o"36"5AB13629-2B3B-49BE-977A-2BC80B74BEAA-
+
+CCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Common.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Common.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419258337.863285
+e419258337.916598
+r1
+xCompileC
+xBuild/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Common.o
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Common.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Common.mca31dde15ffdb841^f8a9eae15ffdb841^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/Common.m0000000000000000^3904"CompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Common.o ForwARd/Common.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-generated-files.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-own-target-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-all-target-headers.hmap" -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-project-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources/i386" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" -include "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch" -MMD -MT dependencies -MF "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Common.d" --serialize-diagnostics "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Common.dia" -c "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Common.m" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Common.o"36"EF4059AD-824D-4B9A-AF5D-BE46C35C3912-
+
+CCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Event.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Event.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419258337.809415
+e419258337.859687
+r1
+xCompileC
+xBuild/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Event.o
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Event.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Event.m42d2cfe15ffdb841^0d1cdce15ffdb841^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/Event.m0000000000000000^3898"CompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Event.o ForwARd/Event.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-generated-files.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-own-target-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-all-target-headers.hmap" -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-project-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources/i386" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" -include "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch" -MMD -MT dependencies -MF "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Event.d" --serialize-diagnostics "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Event.dia" -c "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Event.m" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Event.o"36"2675EB5F-389B-4958-AFB8-B58EF8163048-
+
+CCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/EventNode.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/EventNode.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419258337.883263
+e419258337.923503
+r1
+xCompileC
+xBuild/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/EventNode.o
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/EventNode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/EventNode.m0a4de2e15ffdb841^5e81ece15ffdb841^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/EventNode.m0000000000000000^3922"CompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/EventNode.o ForwARd/EventNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-generated-files.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-own-target-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-all-target-headers.hmap" -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-project-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources/i386" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" -include "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch" -MMD -MT dependencies -MF "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/EventNode.d" --serialize-diagnostics "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/EventNode.dia" -c "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/EventNode.m" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/EventNode.o"36"8059221E-6DE2-4BCE-9BAD-A5EA14F14AEC-
+
+CCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Mission.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Mission.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419258337.555120
+e419258337.807998
+r1
+xCompileC
+xBuild/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Mission.o
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Mission.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Mission.m11388ee15ffdb841^c096cfe15ffdb841^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/Mission.m0000000000000000^3910"CompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Mission.o ForwARd/Mission.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-generated-files.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-own-target-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-all-target-headers.hmap" -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-project-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources/i386" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" -include "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch" -MMD -MT dependencies -MF "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Mission.d" --serialize-diagnostics "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Mission.dia" -c "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Mission.m" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Mission.o"36"03C10CA7-3C0F-4523-821C-2E1CC6E7C371-
+
+CCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFactory.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFactory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419258337.811303
+e419258337.861825
+r1
+xCompileC
+xBuild/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFactory.o
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFactory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFactory.m:172:1: warning: control reaches end of non-void function [-Wreturn-type]
+o}
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFactory.m1ccfcfe15ffdb841^17b8dce15ffdb841^-185"/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFactory.m:172:1: warning: control reaches end of non-void function [-Wreturn-type]}^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@40"Control reaches end of non-void function-419258337#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@110"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/MissionFactory.m0000000000000000^171#0#171#0#8461#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@110"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/MissionFactory.m0000000000000000^3952"CompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFactory.o ForwARd/MissionFactory.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-generated-files.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-own-target-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-all-target-headers.hmap" -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-project-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources/i386" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" -include "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch" -MMD -MT dependencies -MF "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFactory.d" --serialize-diagnostics "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFactory.dia" -c "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFactory.m" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFactory.o"36"71183101-5F9B-44B1-BCB4-0994A64E394B-
+
+CCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFlowController.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFlowController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419258337.861369
+e419258337.927662
+r1
+xCompileC
+xBuild/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFlowController.o
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFlowController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFlowController.m:38:17: warning: incomplete implementation [-Wincomplete-implementation]
+o@implementation MissionFlowController
+o                ^
+o/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFlowController.h:28:1: note: method definition for 'init' not found
+o-(id)init;
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFlowController.mafb4dce15ffdb841^2979ede15ffdb841^-401"/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFlowController.m:38:17: warning: incomplete implementation [-Wincomplete-implementation]@implementation MissionFlowController                ^/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFlowController.h:28:1: note: method definition for 'init' not found-(id)init;^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@25"Incomplete implementation-419258337#18446744073709551615#0#1(2@38"Method definition for 'init' not found-419258337#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@117"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/MissionFlowController.h0000000000000000^27#0#27#0#1039#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@117"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/MissionFlowController.m0000000000000000^37#16#37#16#1004#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@117"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/MissionFlowController.m0000000000000000^3994"CompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFlowController.o ForwARd/MissionFlowController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-generated-files.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-own-target-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-all-target-headers.hmap" -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-project-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources/i386" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" -include "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch" -MMD -MT dependencies -MF "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFlowController.d" --serialize-diagnostics "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFlowController.dia" -c "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionFlowController.m" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionFlowController.o"36"1CEB8569-0F2D-4A52-AC6C-0598AAF9BAD7-
+
+CCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionLogCell.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionLogCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419258337.925291
+e419258338.101145
+r1
+xCompileC
+xBuild/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionLogCell.o
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionLogCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionLogCell.m4721ede15ffdb841^00ab37e25ffdb841^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/MissionLogCell.m0000000000000000^3952"CompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionLogCell.o ForwARd/MissionLogCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-generated-files.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-own-target-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-all-target-headers.hmap" -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-project-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources/i386" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" -include "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch" -MMD -MT dependencies -MF "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionLogCell.d" --serialize-diagnostics "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionLogCell.dia" -c "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionLogCell.m" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionLogCell.o"36"609B4257-D0FA-48CB-BDD6-AB6762D952A8-
+
+CCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionViewController.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419258337.809464
+e419258338.100503
+r1
+xCompileC
+xBuild/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionViewController.o
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionViewController.m:263:40: warning: assigning to 'NSString *' from 'const NSString *' discards qualifiers [-Wincompatible-pointer-types]
+o    displayData.missionLogIconFileName = success ? taskSuccessLogIconFilename : taskFailLogIconFilename;
+o                                       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionViewController.m:284:40: warning: assigning to 'NSString *' from 'const NSString *__strong' discards qualifiers [-Wincompatible-pointer-types]
+o    displayData.missionLogIconFileName = taskStartIconFilename;
+o                                       ^ ~~~~~~~~~~~~~~~~~~~~~
+o/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionViewController.m:34:17: warning: incomplete implementation [-Wincomplete-implementation]
+o@implementation MissionViewController
+o                ^
+o/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionViewController.h:35:1: note: method definition for 'didUpdateLocation:' not found
+o-(void)didUpdateLocation:(int)distanceInMeters;
+o^
+o3 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionViewController.m6b83cfe15ffdb841^a5a037e25ffdb841^-1221"/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionViewController.m:263:40: warning: assigning to 'NSString *' from 'const NSString *' discards qualifiers [-Wincompatible-pointer-types]    displayData.missionLogIconFileName = success ? taskSuccessLogIconFilename : taskFailLogIconFilename;                                       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionViewController.m:284:40: warning: assigning to 'NSString *' from 'const NSString *__strong' discards qualifiers [-Wincompatible-pointer-types]    displayData.missionLogIconFileName = taskStartIconFilename;                                       ^ ~~~~~~~~~~~~~~~~~~~~~/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionViewController.m:34:17: warning: incomplete implementation [-Wincomplete-implementation]@implementation MissionViewController                ^/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionViewController.h:35:1: note: method definition for 'didUpdateLocation:' not found-(void)didUpdateLocation:(int)distanceInMeters;^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@69"Assigning to 'NSString *' from 'const NSString *' discards qualifiers-419258338#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@117"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/MissionViewController.m0000000000000000^262#39#262#39#9190#0#14"Semantic Issue1(3@117"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/MissionViewController.m0000000000000000^262#41#262#103#9192#39#-2@77"Assigning to 'NSString *' from 'const NSString *__strong' discards qualifiers-419258338#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@117"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/MissionViewController.m0000000000000000^283#39#283#39#9761#0#14"Semantic Issue1(3@117"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/MissionViewController.m0000000000000000^283#41#283#62#9763#0#-2@25"Incomplete implementation-419258338#18446744073709551615#0#1(2@52"Method definition for 'didUpdateLocation:' not found-419258338#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@117"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/MissionViewController.h0000000000000000^34#0#34#0#1467#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@117"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/MissionViewController.m0000000000000000^33#16#33#16#732#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@117"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/MissionViewController.m0000000000000000^3994"CompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionViewController.o ForwARd/MissionViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-generated-files.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-own-target-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-all-target-headers.hmap" -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-project-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources/i386" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" -include "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch" -MMD -MT dependencies -MF "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionViewController.d" --serialize-diagnostics "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionViewController.dia" -c "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/MissionViewController.m" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/MissionViewController.o"36"957409A7-62EB-4B46-BA15-2B5427CD5BE7-
+
+CCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/SoundController.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/SoundController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419258337.929290
+e419258338.123301
+r1
+xCompileC
+xBuild/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/SoundController.o
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/SoundController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/SoundController.m6a14eee15ffdb841^46b637e25ffdb841^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/SoundController.m0000000000000000^3958"CompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/SoundController.o ForwARd/SoundController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-generated-files.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-own-target-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-all-target-headers.hmap" -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-project-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources/i386" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" -include "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch" -MMD -MT dependencies -MF "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/SoundController.d" --serialize-diagnostics "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/SoundController.dia" -c "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/SoundController.m" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/SoundController.o"36"1497C403-5D9B-4CB8-BF07-DFA6E6520BD4-
+
+CCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Task.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Task.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419258337.809444
+e419258337.881378
+r1
+xCompileC
+xBuild/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Task.o
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Task.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Task.m:208:17: warning: incomplete implementation [-Wincomplete-implementation]
+o@implementation touchScreenTask
+o                ^
+o/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Task.h:85:1: note: method definition for 'getProgressWithMetrics:' not found
+o-(UITaskProgressData*)getProgressWithMetrics:(PlayMetrics*)currentMetrics;
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Task.m8b8bcfe15ffdb841^ecc0e1e15ffdb841^-445"/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Task.m:208:17: warning: incomplete implementation [-Wincomplete-implementation]@implementation touchScreenTask                ^/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Task.h:85:1: note: method definition for 'getProgressWithMetrics:' not found-(UITaskProgressData*)getProgressWithMetrics:(PlayMetrics*)currentMetrics;^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@25"Incomplete implementation-419258337#18446744073709551615#0#1(2@57"Method definition for 'getProgressWithMetrics:' not found-419258337#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@100"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/Task.h0000000000000000^84#0#84#0#2495#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@100"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/Task.m0000000000000000^207#16#207#16#5551#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@100"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/Task.m0000000000000000^3892"CompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Task.o ForwARd/Task.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-generated-files.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-own-target-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-all-target-headers.hmap" -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-project-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources/i386" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" -include "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch" -MMD -MT dependencies -MF "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Task.d" --serialize-diagnostics "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Task.dia" -c "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Task.m" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/Task.o"36"3E692A51-E4B9-4ECC-A014-573E92A2FE41-
+
+CCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/ViewController.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419258337.555019
+e419258337.808091
+r1
+xCompileC
+xBuild/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/ViewController.o
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/ViewController.m2c2e8ee15ffdb841^2d99cfe15ffdb841^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/ViewController.m0000000000000000^3952"CompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/ViewController.o ForwARd/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-generated-files.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-own-target-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-all-target-headers.hmap" -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-project-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources/i386" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" -include "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch" -MMD -MT dependencies -MF "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/ViewController.d" --serialize-diagnostics "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/ViewController.dia" -c "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/ViewController.m" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/ViewController.o"36"1EA22C59-4104-4EF8-8DA1-953CA6119527-
+
+CCompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/main.o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419258337.554320
+e419258337.807150
+r1
+xCompileC
+xBuild/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/main.o
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/main.mde058ee15ffdb841^368fcfe15ffdb841^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/main.m0000000000000000^3892"CompileC Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/main.o ForwARd/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-generated-files.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-own-target-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-all-target-headers.hmap" -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-project-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources/i386" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" -include "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch" -MMD -MT dependencies -MF "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/main.dia" -c "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/main.m" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/main.o"36"A707FCFA-E9BB-44E1-9346-58799359CEEC-
+
+CCompileStoryboard "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/en.lproj/MainStoryboard_iPad.storyboard"
+r0
+
+CCompileStoryboard "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/en.lproj/MainStoryboard_iPhone.storyboard"
+r0
+
+CCopyStringsFile "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/en.lproj/InfoPlist.strings" ForwARd/en.lproj/InfoPlist.strings
+s419258338.256418
+e419258338.264518
+r1
+xCopyStringsFile
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/en.lproj/InfoPlist.strings
+xForwARd/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy ForwARd/en.lproj/InfoPlist.strings0ebd41e25ffdb841^63b743e25ffdb841^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/en.lproj/InfoPlist.strings0000000000000000^643"CopyStringsFile Build/Products/Debug-iphonesimulator/ForwARd.app/en.lproj/InfoPlist.strings ForwARd/en.lproj/InfoPlist.strings    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/en.lproj" -- ForwARd/en.lproj/InfoPlist.strings36"5DA30144-A52A-42D6-8206-47FAEC4C552B-
+
+CCpResource "ForwARd/../Graphics/menu bck.png" "Build/Products/Debug-iphonesimulator/ForwARd.app/menu bck.png"
+r0
+
+CCpResource ForwARd/../Default-568h@2x.png Build/Products/Debug-iphonesimulator/ForwARd.app/Default-568h@2x.png
+r0
+
+CCpResource ForwARd/../Default@2x.png Build/Products/Debug-iphonesimulator/ForwARd.app/Default@2x.png
+s419258338.257152
+e419258338.265457
+r0
+xCpResource
+xForwARd/../Default@2x.png
+xBuild/Products/Debug-iphonesimulator/ForwARd.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy Build/Products/Debug-iphonesimulator/ForwARd.app/Default@2x.png03ea41e25ffdb841^c0eb43e25ffdb841^-121"error: /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/../Default@2x.png: No such file or directory1(21%IDEActivityLogMessage2@121"error: /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/../Default@2x.png: No such file or directory-419258338#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#11"PBXCp Error--0#0#0#-19%DVTDocumentLocation4@149"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Default@2x.png000000000080d041^686"CpResource "ForwARd/../Default@2x.png" "Build/Products/Debug-iphonesimulator/ForwARd.app/Default@2x.png"    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/../Default@2x.png" "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app"36"5D3F4CE8-83FB-411D-B913-55694C114273-
+
+CCpResource ForwARd/../Graphics/arrows1.png Build/Products/Debug-iphonesimulator/ForwARd.app/arrows1.png
+r0
+
+CCpResource ForwARd/../Graphics/energy_symbol.png Build/Products/Debug-iphonesimulator/ForwARd.app/energy_symbol.png
+r0
+
+CCpResource ForwARd/../Graphics/menu.png Build/Products/Debug-iphonesimulator/ForwARd.app/menu.png
+r0
+
+CCpResource ForwARd/../icon1.png Build/Products/Debug-iphonesimulator/ForwARd.app/icon1.png
+r0
+
+CCpResource ForwARd/Default-568h@2x.png Build/Products/Debug-iphonesimulator/ForwARd.app/Default-568h@2x.png
+s419258338.263140
+e419258338.274207
+r1
+xCpResource
+xForwARd/Default-568h@2x.png
+xBuild/Products/Debug-iphonesimulator/ForwARd.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy Build/Products/Debug-iphonesimulator/ForwARd.app/Default-568h@2x.png0d8943e25ffdb841^d63546e25ffdb841^---1#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Default-568h@2x.png000000000080d041^695"CpResource "ForwARd/Default-568h@2x.png" "Build/Products/Debug-iphonesimulator/ForwARd.app/Default-568h@2x.png"    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Default-568h@2x.png" "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app"36"7A930FB9-9C0F-42ED-8078-E27513C92CE3-
+
+CCpResource ForwARd/Default.png Build/Products/Debug-iphonesimulator/ForwARd.app/Default.png
+s419258338.256421
+e419258338.261751
+r1
+xCpResource
+xForwARd/Default.png
+xBuild/Products/Debug-iphonesimulator/ForwARd.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy Build/Products/Debug-iphonesimulator/ForwARd.app/Default.png2fc141e25ffdb841^443343e25ffdb841^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Default.png000000000080d041^667"CpResource ForwARd/Default.png Build/Products/Debug-iphonesimulator/ForwARd.app/Default.png    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Default.png" "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app"36"C017ED85-E070-4A9F-A5F1-1E689E8FA254-
+
+CCpResource ForwARd/Default@2x.png Build/Products/Debug-iphonesimulator/ForwARd.app/Default@2x.png
+s419258338.257165
+e419258338.264582
+r1
+xCpResource
+xForwARd/Default@2x.png
+xBuild/Products/Debug-iphonesimulator/ForwARd.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy Build/Products/Debug-iphonesimulator/ForwARd.app/Default@2x.png48f941e25ffdb841^37c143e25ffdb841^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Default@2x.png000000000080d041^680"CpResource "ForwARd/Default@2x.png" "Build/Products/Debug-iphonesimulator/ForwARd.app/Default@2x.png"    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/Default@2x.png" "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app"36"3A1A75CE-07A1-4A56-AC17-E7F3C03C00F5-
+
+CCpResource Graphics Build/Products/Debug-iphonesimulator/ForwARd.app/Graphics
+r0
+
+CCpResource sounds Build/Products/Debug-iphonesimulator/ForwARd.app/sounds
+r0
+
+CGenerateDSYMFile "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app.dSYM" "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/ForwARd"
+s419258338.189545
+e419258338.247261
+r1
+xGenerateDSYMFile
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app.dSYM
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/ForwARd
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Generate /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app.dSYM9ca530e25ffdb841^dd2343e25ffdb841^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app.dSYM000000000080d041^736"GenerateDSYMFile Build/Products/Debug-iphonesimulator/ForwARd.app.dSYM Build/Products/Debug-iphonesimulator/ForwARd.app/ForwARd    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/ForwARd" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app.dSYM"36"E9AE9E21-C9B5-492C-9C11-79FA59B21AEC-
+
+CLd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/ForwARd" normal i386
+s419258338.131617
+e419258338.181635
+r1
+xLd
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/ForwARd
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/ForwARdd0d621e25ffdb841^a8e137e25ffdb841^---0#0#0#--1394"Ld Build/Products/Debug-iphonesimulator/ForwARd.app/ForwARd normal i386    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk "-L/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" -filelist "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/Objects-normal/i386/ForwARd.LinkFileList" -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AudioToolbox -framework AVFoundation -framework CoreLocation -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/ForwARd"36"030DB63F-D7BE-4AAE-B978-8EB6EA05939A-
+
+CProcessInfoPlistFile "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Info.plist" ForwARd/ForwARd-Info.plist
+s419258336.146961
+e419258336.169797
+r1
+xProcessInfoPlistFile
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Info.plist
+xForwARd/ForwARd-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process ForwARd/ForwARd-Info.plistbaf629e05ffdb841^89782be05ffdb841^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/ForwARd-Info.plist0000000000000000^752"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/ForwARd.app/Info.plist ForwARd/ForwARd-Info.plist    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ForwARd/ForwARd-Info.plist -genpkginfo "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app/Info.plist"36"52AA0B69-3994-40A4-9B85-20E461E5C8D7-
+
+CProcessPCH "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch.pth" ForwARd/ForwARd-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419258336.179599
+e419258337.547302
+r1
+xProcessPCH
+x/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch.pth
+xForwARd/ForwARd-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile ForwARd/ForwARd-Prefix.pchdd3f2ee05ffdb841^a81b8ce15ffdb841^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/User/Desktop/forwARd-git/forwARd%20-%20working%20-%2016.6.2013/ForwARd/ForwARd-Prefix.pch0000000000000000^3782"ProcessPCH Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch.pth ForwARd/ForwARd-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-generated-files.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-own-target-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-all-target-headers.hmap" -iquote "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/ForwARd-project-headers.hmap" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources/i386" "-I/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/ForwARd.build/Debug-iphonesimulator/ForwARd.build/DerivedSources" "-F/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch.dia" -c "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/ForwARd/ForwARd-Prefix.pch" -o "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Intermediates/PrecompiledHeaders/ForwARd-Prefix-auhecuaehzxcclfcefqgckghywar/ForwARd-Prefix.pch.d"36"A1A53DD0-413D-4317-A0AD-62F48FD3B977-
+
+CProcessPCH /Users/User/Library/Developer/Xcode/DerivedData/ForwARd-evmhlfuwinmqthezaixkjngjfnnb/Index/PrecompiledHeaders/ForwARd-Prefix-gbtqhvliwtxjshayjcwantaazqay_ast/ForwARd-Prefix.pch.pth ForwARd/ForwARd-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/User/Desktop/forwARd-git/forwARd - working - 16.6.2013/Build/Products/Debug-iphonesimulator/ForwARd.app"
+r0
+
